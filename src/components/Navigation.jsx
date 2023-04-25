@@ -40,14 +40,14 @@ const Navigation = () => {
         <img
           onClick={() => handleShow()}
           className="none menu"
-          src="./icons8-menu-rounded-50.png"
+          src="/dist/icons8-menu-rounded-50.png"
           alt="Menu"
         />
         <div className="nav">
           <ul>
             <img
               onClick={() => handleClose()}
-              src="./icons8-close-30.png"
+              src="/dist/icons8-close-30.png"
               alt=""
               className="closeMenu none"
             />
@@ -75,7 +75,7 @@ const Navigation = () => {
                     <div className="formTitle">
                       <h1>Connexion</h1>
                       <img
-                        src="./icons8-close-30.png"
+                        src="/dist/icons8-close-30.png"
                         alt=""
                         className="close"
                         onClick={handleCloseConn}
@@ -111,7 +111,7 @@ const Navigation = () => {
                     <div className="formTitle">
                       <h1>Inscription</h1>
                       <img
-                        src="./icons8-close-30.png"
+                        src="/dist/icons8-close-30.png"
                         alt=""
                         className="close"
                         onClick={handleCloseIns}
