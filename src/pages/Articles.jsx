@@ -6,32 +6,32 @@ const Articles = () => {
   const articles = [
     {
       id: 0,
-      img: "/dist/mode1b.jpg",
+      img: "./mode1b.jpg",
       title: "Existe-t-il une mode africaine ?",
       link: "https://www.peresblancs.org/mode_africaine.htm",
     },
     {
       id: 1,
-      img: "/dist/mode-africaine.jpg",
+      img: "./mode-africaine.jpg",
       title: "Histoire et évolution de la mode africaine",
       link: "https://afriquetimes.com/histoire-et-evolution-de-la-mode-africaine/",
     },
     {
       id: 2,
-      img: "/dist/mode-africaine-femme.jpg",
+      img: "./mode-africaine-femme.jpg",
       title: "5 CONSEILS POUR UNE TENUE AFRICAINE RÉUSSIE",
       link: "https://boutique-africaine.com/blogs/blog-africain/tenue-africaine#:~:text=Tu%20pr%C3%A9f%C3%A8res%20porter%20une%20robe,une%20robe%20africaine%20de%20soir%C3%A9e.",
     },
     {
       id: 3,
-      img: "/dist/IMG-20221108-WA0028-738x355.jpg",
+      img: "./IMG-20221108-WA0028-738x355.jpg",
       title:
         "Comment s'habiller pour un mariage coutumier africain? 33 modèles de pagnes pour son mariage coutumier",
       link: "https://www.liveandwed.com/modeles-pagnes-mariage-coutumier/#:~:text=La%20robe%20en%20pagne%20reste,votre%20tenue%20de%20mariage%20coutumier.",
     },
     {
       id: 4,
-      img: "/dist/modèle-africain-chemise-homme-africaine-imprimés-géométriques-chaussures-noires-manches-mi-longues.jpg",
+      img: "./modèle-africain-chemise-homme-africaine-imprimés-géométriques-chaussures-noires-manches-mi-longues.jpg",
       title:
         "Tenue africaine pour homme – un style entre tradition et modernité",
       link: "https://archzine.fr/mode-et-beaute/mode-homme/tenue-africaine-pour-homme-un-style-entre-tradition-et-modernite/#:~:text=Une%20seule%20bande%20d'imprim%C3%A9s,en%20restant%20styl%C3%A9e%20et%20actuelle.",

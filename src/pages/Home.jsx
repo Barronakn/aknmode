@@ -31,7 +31,7 @@ const Home = () => {
             </p>
           </div>
           <div className="imgAceuil">
-            <img src="/dist/pagneHome.png" alt="" />
+            <img src="./pagneHome.png" alt="" />
           </div>
         </div>
         <div className="homeLink">
