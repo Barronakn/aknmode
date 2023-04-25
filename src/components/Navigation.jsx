@@ -33,7 +33,7 @@ const Navigation = () => {
     <div className="navigation">
       <div className="navigationContainer">
         <div className="logo">
-          <NavLink to="/">
+          <NavLink to="/aknmode">
             Akn <span>Mode</span>
           </NavLink>
         </div>
