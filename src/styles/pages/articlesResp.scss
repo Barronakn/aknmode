@@ -1,0 +1,11 @@
+@media screen and (max-width: 768px) {
+  .articleMode img {
+    object-fit: cover;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .articleMode img {
+    height: 100px;
+  }
+}
